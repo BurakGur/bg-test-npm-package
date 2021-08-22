@@ -1,0 +1,15 @@
+{
+  "name": "@burakgur/bg-test-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BurakGur/bg-test-npm-package.git"
+  },
+  "author": "Burak Gür <gurbrk@gmail.com>",
+  "license": "ISC"
+}
